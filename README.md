@@ -5,4 +5,7 @@ install mastercomfig add the user folder to cfg to prevent mastercomfig from ove
 
 
 **Advanced launch options (copy+paste):**
-```-sw -novid -nojoy -nosteamcontroller -nohltv -softparticlesdefaultoff -reuse -console -r_emulate_gl -nostartupsound -high -threads 8 -w 1920 -h 1080 -noborder -dxlevel 95 -freq 144 -particles 1 -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd```
+```-sw -novid -nojoy -nosteamcontroller -nohltv -softparticlesdefaultoff -reuse -console -r_emulate_gl -nostartupsound -w 1920 -h 1080 -noborder -dxlevel 100 -freq 144 -particles 1 -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -noquicktime```
+
+https://docs.mastercomfig.com/latest/tf2/misconceptions/
+https://docs.mastercomfig.com/latest/customization/launch_options/?h=launch+options
