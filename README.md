@@ -6,7 +6,7 @@ install mastercomfig add the overrides folder to cfg to prevent mastercomfig fro
 **Hud:** https://huds.tf/site/s-sammyhud✿
 
 **Advanced launch options (copy+paste):**
-```-sw -novid -nojoy -nosteamcontroller -nohltv -softparticlesdefaultoff -reuse -console -r_emulate_gl -nostartupsound -w 1920 -h 1080 -noborder -dxlevel 100 -freq 144 -particles 1 -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -noquicktime```
+```-sw -novid -nojoy -nosteamcontroller -nohltv -softparticlesdefaultoff -reuse -console -nostartupsound -w 1920 -h 1080 -noborder -dxlevel 100 -freq 144 -particles 1 -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -noquicktime```
 
 https://docs.mastercomfig.com/latest/tf2/misconceptions/
 
