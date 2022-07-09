@@ -1,7 +1,7 @@
 # hikki-cfg
 my config for tf2
 
-install mastercomfig add the user folder to cfg to prevent mastercomfig from overwriting stuff
+install mastercomfig add the overrides folder to cfg to prevent mastercomfig from overwriting stuff
 
 
 **Advanced launch options (copy+paste):**
