@@ -1,7 +1,7 @@
 # hikki-cfg
 my config for tf2
 
-install mastercomfig add the overrides folder to cfg to prevent mastercomfig from overwriting stuff
+install mastercomfig at https://mastercomfig.com/app/ i use the **medium high settings**, add the overrides folder to cfg in the tf2 folder to prevent mastercomfig from overwriting other important stuff
 
 **Hud:** https://huds.tf/site/s-sammyhud✿
 
